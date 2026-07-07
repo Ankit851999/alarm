@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0eb37439",
+    "time": "07:56",
+    "label": "",
+    "enabled": true,
+    "repeat": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "fri",
+      "sat",
+      "sun"
+    ],
+    "snooze_until": null
+  }
+]
